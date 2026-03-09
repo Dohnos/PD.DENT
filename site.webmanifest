@@ -1,0 +1,15 @@
+{
+  "name": "PD Dent",
+  "short_name": "PD Dent",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6fbfb",
+  "theme_color": "#e7f6f2",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
